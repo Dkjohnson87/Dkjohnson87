@@ -16,6 +16,6 @@
 [<img align="left" alt="Dustin Johnson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
+[twitter]: https://twitter.com/
+[instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/in/dustin-johnson-a2936022a/
