@@ -1,4 +1,4 @@
-<h1>Hello, I'm Dustin, an <a href="https://linkedin.com/in/DustinJohnson">IT Professional</a>☺</h1>
+<h1>Hello, I'm Dustin, an <a href="https://linkedin.com/in/">IT Professidustin-johnson-a2936022a/onal</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
