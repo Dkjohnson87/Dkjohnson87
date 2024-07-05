@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/DustinJohnson
+[linkedin]: https://linkedin.com/in/dustin-johnson-a2936022a/
